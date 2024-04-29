@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hey there! 👋 I'm [Your Name], a freshman studying Computer Science and currently immersed in building a Python application. I'm passionate about coding and excited to explore the vast possibilities in the world of technology.
+Hey there! 👋 I'm Desiree , a freshman studying Computer Science and currently immersed in building a Comptuer Tools. I'm passionate about coding and excited to explore the vast possibilities in the world of technology.
+</br>
+**`Freshman At Biust`** 
+<br/>
 
 # 💻 Tech Stack:
 ## Tools:
