@@ -1,15 +1,33 @@
 # 💫 About Me:
-i am currently working on a python application<br>i am a freshman and doing computer science
-
+Hey there! 👋 I'm [Your Name], a freshman studying Computer Science and currently immersed in building a Python application. I'm passionate about coding and excited to explore the vast possibilities in the world of technology.
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+## Tools:
+I enjoy working with various tools, including:
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,gamemakerstudio,r" alt="Tools Stack" />
+</div>
+
+## Languages:
+I'm proficient in several programming languages, such as:
+<div>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,cpp" alt="Languages Stack" />
+</div>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the-dezeray&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=the-dezeray&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dezeray&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Here's a glimpse of my GitHub activity:
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-dezeray&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+  
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-dezeray&theme=transparent&hide_border=false)
+  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dezeray&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=the-dezeray&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
