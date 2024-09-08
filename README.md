@@ -1,7 +1,7 @@
 A Vim Viking 
 =================================
 
-computer science major
+majoring in computer science 
 ----------------------
 
 On a quest to  conquer⚔ and solve problems with software.I enjoy crafting solutions and tools 🔨 .
