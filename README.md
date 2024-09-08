@@ -1,16 +1,18 @@
-Hi 👋 My name is Desiree Chinwaru
+A Vim Viking 
 =================================
 
 computer science major
 ----------------------
 
-I have been coding for a while now and from making simple games to somes apps , webpages to now buikding libraries and documentation.Most of my time currently is spent exploring open source libraries and document as well as building
+On a quest to  conquer⚔ and solve problems with software.I enjoy crafting solutions and tools 🔨 .
 
 *   🌍  I'm based in Botswana
-*   ✉️  You can contact me at [chingwaru.desiree@gmail.com](mailto:chingwaru.desiree@gmail.com)
-*   🧠  I'm learning computer science
-*   🤝  I'm open to collaborating on flow chart and documentation and anything python
-*   ⚡  free to collaborate
+*   ✉️  [Just Email 😁](mailto:chingwaru.desiree@gmail.com)
+*   🧠 currently raiding laravel
+*   🤝  I'm open to collaborating , documentation and anything python related
+*   ⚡  crafting tools to solve problems🔥🔥 
+
+
 <a href="https://www.github.com/the-dezeray" target="_blank" rel="noreferrer">
 <img
                   src="https://img.shields.io/github/followers/the-dezeray?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
